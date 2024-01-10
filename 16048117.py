@@ -284,4 +284,4 @@ df_GDP = pd.read_csv("GDP.csv")
 lineplotGDP(df_GDP)
 
 
-plt.savefig("16048117.png", dpi=300)
+plt.show()
